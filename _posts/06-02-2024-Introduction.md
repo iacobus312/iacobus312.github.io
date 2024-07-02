@@ -1,3 +1,9 @@
+---
+layout: post
+author: Jacob Ye
+tags: [introduction]
+---
+
 ## introduction
 
 Whenever I get the urge to post something creative of mine I jump to the self-conscious feeling of not wanting to be quirky. Which I end up associating with negative/undesirable behavior. The fashion model wearing a garbage bag as she strides down the runway, an artist indiscriminately splashing paint across the canvas, the girl in English class constantly interrupting class conversations with tangents, the clarinetist in the band room early in the morning practicing the complex Bach partita. The person launches off conversations by asking you by what method you would commit suicide.
