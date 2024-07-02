@@ -5,21 +5,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Resume</title>
     <style>
-        body, html {
-            margin: 0;
-            padding: 0;
-            height: 100%;
-            overflow: hidden;
-        }
-
-        #resume-pdf {
-            display: block;
-            border: none;
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
             height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .resume-link {
+            padding: 15px 25px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 18px;
+        }
+        .resume-link:hover {
+            background-color: #0056b3;
         }
     </style>
 </head>
 <body>
-    <embed id="resume-pdf" src="Resume.pdf" width="100%" height="100%" type="application/pdf">
+    <a href="Resume.pdf" target="_blank" class="resume-link">View Resume</a>
 </body>
 </html>
