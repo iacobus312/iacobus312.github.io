@@ -2,9 +2,6 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
-    url: blog
-
   - title: resume
     url: resume
 
