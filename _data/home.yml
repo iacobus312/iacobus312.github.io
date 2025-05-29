@@ -10,6 +10,26 @@ project_entries:
     url: overview-post
     desc: 
 
+  - title: Project 2
+    url: overview-post
+    desc: 
+
+  - title: Project 3
+    url: overview-post
+    desc: 
+
+  - title: Project 4
+    url: overview-post
+    desc: 
+
+  - title: Project 5
+    url: overview-post
+    desc: 
+
+  - title: Project 6
+    url: overview-post
+    desc: 
+
 footer_entries:
   - title: github
     url: https://github.com/iacobus312
