@@ -11,23 +11,23 @@ project_entries:
     desc: 
 
   - title: Project 2
-    url: overview-post
+    url: project2
     desc: 
 
   - title: Project 3
-    url: overview-post
+    url: project3
     desc: 
 
   - title: Project 4
-    url: overview-post
+    url: project4
     desc: 
 
   - title: Project 5
-    url: overview-post
+    url: project5
     desc: 
 
   - title: Project 6
-    url: overview-post
+    url: project6
     desc: 
 
 footer_entries:
