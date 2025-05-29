@@ -1,6 +1,6 @@
 ---
 layout: project
-title: dscvr.ai
+title: Wifi-Gating Solution for Hilton
 ---
 
 Project content goes here. You can use markdown formatting:
